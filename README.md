@@ -1,4 +1,10 @@
-# 💤 LazyVim
+# 💤  My LazyVim Config
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+
+## KeyMaps
+
+1. x -> "_x 删除而不是剪切
+
+
+
+
